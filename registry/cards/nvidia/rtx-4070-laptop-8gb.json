@@ -1,0 +1,16 @@
+{
+  "id": "rtx-4070-laptop-8gb",
+  "name": "NVIDIA GeForce RTX 4070 Laptop GPU",
+  "vendor": "nvidia",
+  "backend": "nvidia",
+  "vram_gb": 8,
+  "bandwidth_gb_s": null,
+  "match": {
+    "backend": "nvidia",
+    "name": "NVIDIA GeForce RTX 4070 Laptop GPU",
+    "names": [
+      "rtx4070laptopgpu"
+    ],
+    "vramGb": 8
+  }
+}
